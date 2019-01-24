@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Tower__c",
+                "referenceId": "Tower__cRef1"
+            },
+            "Name": "Lightning Ridge",
+            "Tower_Location__Latitude__s": 40.490684,
+            "Tower_Location__Longitude__s": -110.908727
+        },
+        {
+            "attributes": {
+                "type": "Tower__c",
+                "referenceId": "Tower__cRef2"
+            },
+            "Name": "Craters",
+            "Tower_Location__Latitude__s": 43.555375,
+            "Tower_Location__Longitude__s": -113.70069
+        },
+        {
+            "attributes": {
+                "type": "Tower__c",
+                "referenceId": "Tower__cRef3"
+            },
+            "Name": "Rainbow",
+            "Tower_Location__Latitude__s": 37.060663,
+            "Tower_Location__Longitude__s": -110.975708
+        },
+        {
+            "attributes": {
+                "type": "Tower__c",
+                "referenceId": "Tower__cRef4"
+            },
+            "Name": "Nuckols",
+            "Tower_Location__Latitude__s": 47.516694,
+            "Tower_Location__Longitude__s": -115.939163
+        }
+    ]
+}
